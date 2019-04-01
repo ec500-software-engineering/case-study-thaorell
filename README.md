@@ -11,7 +11,9 @@ To see further report on the case study, look under docs/
 1. To install flutter, follow instructions from the following link
 https://flutter.dev/docs/get-started/install
 
-2. To run this hello-world application, run
+2. To run this hello-world application, clone this repo & run
 ```
+git clone https://github.com/ec500-software-engineering/case-study-thaorell
+cd flutter_app
 flutter run
 ```
