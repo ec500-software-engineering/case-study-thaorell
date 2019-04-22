@@ -1,6 +1,6 @@
-# flutter_app
+# friendlychat
 
-A new Flutter application.
+Codelab tutorials
 
 ## Getting Started
 

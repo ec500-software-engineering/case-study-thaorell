@@ -1,4 +1,4 @@
-package com.buec500.flutter_app;
+package tutorial.friendlychat;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
