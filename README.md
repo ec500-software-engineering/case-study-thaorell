@@ -1,8 +1,9 @@
 This is a case study on Flutter, a new cross-platform mobile development framework.
 
+To see detailed report on the case study with specific diagrams, look under docs/
+
 ## Overview
 Flutter is an SDK developed by Google for fast and robust cross-platform mobile application development. It is an open-source project used in many applications, and it aims to allow designing and writing interfaces that function well, look sleek and are easy to code. Some of its core features include a fully customizable and flexible UI, a responsive interface, and integration with existing tools like Java, Kotlin, Objective C, and Swift code, platform APIs, as well as third-party SDKs.
-To see further report on the case study, look under docs/
 
 ## Technology and Platform
 ### a.	Coding language
