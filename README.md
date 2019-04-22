@@ -71,11 +71,9 @@ The async and await keywords are part of the Dart language’s asynchronous prog
  
 
 The Future API is an older method before async and await were introduced in Dart 1.9. Like in JavaScript, this API works by using the then() method to register a callback. This callback fires when the Future completes.
-c.	More on Dart 
+### c.	More on Dart 
 While developers build Flutter apps in object-oriented style, Dart is a multi-paradigm language supporting scripting, object-oriented, imperative, reflective, functional programming. Developers might find similarities with JavaScript and Swift.  
-This code example demonstrates a class called ChatScreenState with inheritance features. A developer can use strong type declarations or weak type using ‘var’ keyword. 
-In addition to object-oriented features, this code also shows elements of scripting languages in the ‘build’ method, where a Scaffold object is returned with nested objects inside of it. Alternatively, the developer can choose to embrace object-oriented programming by declaring these objects serially. 
-## Two Defects 
+
 Flutter’s contribution guide: 
 https://github.com/flutter/flutter/blob/master/CONTRIBUTING.md
 1.	VM crash
